@@ -43,5 +43,3 @@ https://raw.githack.com/Shimele/Book-store-design/developement/index.html
 - Linkedin: [/in/shey-louis-chia](https://www.linkedin.com/in/shey-louis-chia)
 - Email: shloch2007@yahoo.fr
 
-## 👤 **Philip Yirenky**
-- Philip Yirenky \_https://github.com/pwilson77__
